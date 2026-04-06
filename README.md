@@ -50,7 +50,7 @@ This is a Java project that demonstrates how to connect to a SQL Server database
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Lorenzo-Zagallo/java-jdbc-crud.git](https://github.com/Lorenzo-Zagallo/java-jdbc-crud.git)
+   git clone https://github.com/Lorenzo-Zagallo/java-jdbc-crud.git
    ```
 2. Open the project in IntelliJ IDEA (or your preferred Java IDE).
 3. Set up the database connection in the `db.properties` file located in the project root:
